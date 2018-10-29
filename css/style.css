@@ -72,6 +72,9 @@ ul{
     max-width: 1920px;
     margin: 0 auto;
 }
+#main_gnb > .depth1 > li > a > span{
+    color: #ffcc00;
+}
 /* 1단계 메뉴 */
 #main_gnb > .depth1 > li{
     float: left;
